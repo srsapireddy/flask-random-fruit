@@ -1,3 +1,5 @@
+Status Badge: [![Python 3.8](https://github.com/srsapireddy/flask-random-fruit/actions/workflows/main.yml/badge.svg)](https://github.com/srsapireddy/flask-random-fruit/actions/workflows/main.yml) <br>
+
 # flask-random-fruit
 A flask microservice for generating random fruit!
 Includes continuous integration.
